@@ -67,4 +67,4 @@ Visit our [wiki](https://github.com/minuminukim/memehub-express-project/wiki/Mem
 - [User Stories](https://github.com/minuminukim/memehub-express-project/wiki/User-Stories)
 - [Database Schema](https://github.com/minuminukim/memehub-express-project/wiki/Database-Schema)
 - [API Documentation](https://github.com/minuminukim/memehub-express-project/wiki/API-Documentation)
-- [Frontend Routes](https://github.com/minuminukim/memehub-express-project/wiki/Frontend-Routes)  test
+- [Frontend Routes](https://github.com/minuminukim/memehub-express-project/wiki/Frontend-Routes) 
